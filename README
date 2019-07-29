@@ -1,3 +1,4 @@
+29th July 2019
 echo "# Demo" >> README.md
 git init
 git add README.md
